@@ -1,0 +1,2 @@
+# ai_coding_sample
+Claude CodeとCursorを使ってミニアプリ作成してみた
